@@ -2,12 +2,6 @@
 
 :pushpin: A Demo for Google Maps JavaScript API
 
-![](api.png)
-
-## Video Tutorial :video_camera:
-
-1. [Watch Demo Tutorial](https://www.youtube.com/watch?v=yhhkNtdg5x0&list=PLD8nQCAhR3tT9dU8JKLpG3av-WMQGPPFP)
-
 ## Step-1-GET API KEY :old_key:
   * [API Dashboard](https://console.cloud.google.com/apis/dashboard)
   * [Google Maps JavaScript Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)
